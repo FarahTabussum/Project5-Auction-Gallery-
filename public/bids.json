@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic Camera from the 1970s in mint condition.",
+    "currentBidPrice": 5200,
+    "timeLeft": "2h 30m",
+    "bidsCount": 12,
+    "image": "/images/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Brand new Guiter.",
+    "currentBidPrice": 1800,
+    "timeLeft": "1d 4h",
+    "bidsCount": 21,
+    "image": "/images/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Original Apple Macintosh 128K (1984).",
+    "currentBidPrice": 2300,
+    "timeLeft": "3h 15m",
+    "bidsCount": 34,
+    "image": "/images/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A classic watch from the 1970s in mint condition.",
+    "currentBidPrice": 950,
+    "timeLeft": "5h 50m",
+    "bidsCount": 17,
+    "image": "/images/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "Mid-Century Modern Eames Lounge Chair",
+    "currentBidPrice": 420,
+    "timeLeft": "2d 1h",
+    "bidsCount": 9,
+    "image": "/images/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "currentBidPrice": 310,
+    "timeLeft": "2 Days Left",
+    "bidsCount": 13,
+    "image": "/images/Bid6-min.png"
+  }
+]
